@@ -1,4 +1,4 @@
-# Buscador de Documentos - AVL
+# 🦉 Buscador de Documentos - AVL
 
 Aplicación web que permite buscar documentos locales (`.pdf`) utilizando un motor de búsqueda basado en árboles AVL. Su diseño está inspirado en el buscador de Google.
 
@@ -60,9 +60,10 @@ cd busquedas-avl-backend
 ## Captura de pantalla
 
 ![Interfaz de búsqueda](./Captura.png)
+![Interfaz de búsqueda en móvil](./CapturaMovil.png)
 
 ---
 
-## Autor
+## Autor 🗣️
 
 - Joaquín – [GitHub](https://github.com/Hoakin26)

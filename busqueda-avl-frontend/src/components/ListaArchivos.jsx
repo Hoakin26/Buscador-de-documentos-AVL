@@ -73,7 +73,7 @@ function ListaArchivos({ documentos, setDocumentos, palabraBuscada, direccion, e
                                         </div>
 
 
-                                        <div className="xl:pl-3">
+                                        <div className="xl:pl-3 pl-2">
                                             <span className="text-[#202124] dark:text-[#DADCE0]">Documento</span><br />
                                             <p
                                                 className="text-xs text-[#474747] dark:text-[#DADCE0] truncate block max-w-50"
