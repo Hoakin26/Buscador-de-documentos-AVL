@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+body {
+  font-family: "Arial", "sans-serif";
+  margin: 0;
+  padding: 0px;
+}
