@@ -59,7 +59,7 @@ cd busquedas-avl-backend
 
 ## Captura de pantalla
 
-![Interfaz de búsqueda](./captura.png)
+![Interfaz de búsqueda](./Captura.png)
 
 ---
 
